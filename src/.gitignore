@@ -1,0 +1,4 @@
+*.sv
+work/
+transcript
+*.wlf
